@@ -1,0 +1,3 @@
+This updated data scrape is also available daily at 0400hrs by visiting http://script.kc7aad.com/PNW_Contacts.txt.
+
+This scrape only includes WA, OR, ID, MT and BC Canada
