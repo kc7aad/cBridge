@@ -1,5 +1,5 @@
 # cBridge
-A collection of cBridge scripts and info. Mostly use for scrape info from elsewhere on the web.
+A collection of cBridge scripts and info. Mostly used to scrape info from elsewhere on the web.
 These are bash scripts that if used, need to have execute permission (chmod +x <filename> )
 They may not be the best, but they are simple and work for what our requirements are. The plus side to this,
 while simple, ANYONE who can read and has a little bit of common sense, can modify these to make them work for what you need!!
