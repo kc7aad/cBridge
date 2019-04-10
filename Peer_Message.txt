@@ -1,1 +1,0 @@
-This updated data scrape is also available daily at 0400hrs by visiting http://script.kc7aad.com/cBridge_peers.txt.
